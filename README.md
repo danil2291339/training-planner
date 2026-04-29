@@ -72,7 +72,6 @@ python main.py
 
 ![Скриншот 1](img.png)
 ![Скриншот 2](img_1.png)
-![Скриншот 3](img_2.png)
 
 ## Ссылка на GitHub
 
